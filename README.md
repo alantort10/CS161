@@ -1,4 +1,3 @@
-# CS161
-CS 161 Projects
+# CS 161
 
 A collection of my CS161 Projects for Summer Session 2021
